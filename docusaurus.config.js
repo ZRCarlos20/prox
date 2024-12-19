@@ -16,8 +16,8 @@ const config = {
   baseUrl: '/prox/',
 
   // GitHub pages deployment config.
-  organizationName: 'fastura',
-  projectName: 'documentacion',
+  organizationName: 'ZRCarlos20',
+  projectName: 'prox',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
