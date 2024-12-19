@@ -43,5 +43,4 @@ Te recomendamos que visites los artículos más importantes para tu negocios:
 - [Restaurante](restaurante)
 - [Generador de link de pago](generador-link-pago)
 - [Generador APP 2.0](generador-app-2-0)
-- [App Android](app-para-facturacion)
 - [Guias adicionales](guias-adicionales)
