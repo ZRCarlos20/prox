@@ -6,14 +6,14 @@ const {themes} = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Documentación Facturador electrónico',
-  tagline: 'Guia oficial completa y definitiva del facturador Pro 5 y Pro X',
+  tagline: 'Guia oficial completa y definitiva del facturador Pro X',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://documentacion.fastura.app',
+  url: 'https://ZRCarlos20.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/documentacion/',
+  baseUrl: '/prox/',
 
   // GitHub pages deployment config.
   organizationName: 'fastura',
@@ -58,7 +58,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Documentación',
+        title: 'Pro X',
         logo: {
           alt: 'Documentación de facturación',
           src: 'img/fastura.svg',
